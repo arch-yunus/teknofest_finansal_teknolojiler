@@ -33,12 +33,6 @@ Finansal verinin dokunulmazlığı için "Zero Trust" mimarisi.
 
 ---
 
-## 👨‍💻 Baş Mimar (Lead Architect)
-**Bahattin Yunus Çetin** | *IT Architect Candidate*
-Trabzon'dan yükselen bir finansal teknoloji vizyonu. Karmaşık verileri güvenli ve ölçeklenebilir yapılara dönüştürme uzmanı.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/bahattinyunus)
 
 ---
 
